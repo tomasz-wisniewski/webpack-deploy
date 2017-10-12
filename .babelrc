@@ -1,0 +1,4 @@
+// tu ustawianimy w jakiej wersji JS bedziemy pracowac, ES6
+{
+  "presets": ["babel-preset-env", "react"]
+}
